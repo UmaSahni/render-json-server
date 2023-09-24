@@ -21,11 +21,11 @@ Hello everyone in this video you will learn to deploy your db.json file on **ren
 
 After all this steps are completed use this command to push the code in your Github account.
 
-git add .
+`git add .`
 
-git commit -m "Your message"
+`git commit -m "Your message"`
 
-git push origin main
+`git push origin main`
 
 
 If you find this video helpful please subscribe to my channel and share this with your friends. If you have any queries ask in the comment section below I will be happy to answer you all.
