@@ -4,19 +4,19 @@
 [![Click to watch the video](http://img.youtube.com/vi/wN0n2gj0z9o/0.jpg)](http://www.youtube.com/watch?v=wN0n2gj0z9o)
 
 
-Hello everyone in this video you will learn to deploy your db.json file on render.com step by step.
+Hello everyone in this video you will learn to deploy your db.json file on **render.com** step by step.
 
-Step 1 -   Create git repository
+**Step 1** -   Create git repository
 
-Step 2 - Clone it on your device
+**Step 2** - Clone it on your device
 
-Step 3 - Add package.json by using this command `npm init -y`
+**Step 3** - Add package.json by using this command `npm init -y`
 
-Step 4 - Install some dependency by using this command `npm i json-server cors json-serve` and add "start": "node index.js" in script 
+**Step 4** - Install some dependency by using this command `npm i json-server cors json-serve` and add ` "start": "node index.js" ` in script 
 
-Step 6 - Create index.js file copy the code from my GitHub repository
+**Step 6** - Create index.js file copy the code from my GitHub repository
 
-Step 7 - Add db.json and add .gitignore file
+**Step 7** - Add db.json and add .gitignore file
 
 
 After all this steps are completed use this command to push the code in your Github account.
